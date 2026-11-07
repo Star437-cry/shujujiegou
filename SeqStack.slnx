@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SeqStack/SeqStack.vcxproj" Id="73745e33-104c-4d9d-aa90-6c43c6d1d703" />
+</Solution>
